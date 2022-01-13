@@ -2,10 +2,10 @@
 
 Installation are required for carried out this all procedure which are as fellows. 
 
-# installation of pycharm (from pycharm website)
-# installation of geocoder (pip install geocoder)
-# installation of opencage (pip install opencage)
-# installtion of phonenumbers (pip install phonenumbers)
+1- installation of pycharm (from pycharm website)
+2- installation of geocoder (pip install geocoder)
+3- installation of opencage (pip install opencage)
+3- installtion of phonenumbers (pip install phonenumbers)
 
 
 I have created find Mobile number location programme by using python code on pycharm and procedure are written as given below in Chronological order.
