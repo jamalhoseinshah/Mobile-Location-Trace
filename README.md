@@ -20,3 +20,8 @@ furthermore, you will find after click this mylocation.htmml file side view some
 I have also attached all snapshot of this project for your overlook in order understand it. 
 
 
+VERY IMPORTANT : Your are required API key for this project because you need to insert in this programme so therefore, you will visit website https://opencagedata.com/ where you find option API KEY where you generate key free for first time by signing of any email account. 
+
+
+" THIS ALL CREDIT TO ALNAFI INSTTITUTE BECAUSE I HAVE NOT ANY I.T BACKGROUND AT ALL BUT I TOOK THIS COURSE VERY SERIOUSLY  AND AFTER COMPELETED OF THIS COURSE I WOULD UNDERSTAND 
+HOW INTERESTED THIS FILED AND INSHALL I WILL DO MORE hard work in the future in order to understand fully. 
