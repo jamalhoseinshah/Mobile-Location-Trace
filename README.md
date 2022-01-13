@@ -26,4 +26,4 @@ I have also attached all snapshot of this project for your overlook in order und
 VERY IMPORTANT : Your are required API key for this project because you need to insert in this programme so therefore, you will visit website https://opencagedata.com/ where you find option API KEY where you generate key free for first time by signing of any email account. 
 
 
-I must giving thanks for ALnafi institute which is great source of learning. 
+I must giving thanks to ALnafi institute which is great source of learning. 
