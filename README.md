@@ -2,13 +2,13 @@
 
 Installation are required for carried out this all procedure which are as fellows. 
 
-1- installation of pycharm (from pycharm website)
-2-installation of geocoder (pip install geocoder)
-3-installation of opencage (pip install opencage)
-4-instaqlltion of phonenumbers (pip install phonenumbers)
+# installation of pycharm (from pycharm website)
+# installation of geocoder (pip install geocoder)
+# installation of opencage (pip install opencage)
+# installtion of phonenumbers (pip install phonenumbers)
 
 
-I have created find Mobile number location programme by using python code on pycharm and procedure are written as given below. 
+I have created find Mobile number location programme by using python code on pycharm and procedure are written as given below in Chronological order.
 
 Created file name numberlocation.py and myNumber.py
 
@@ -23,3 +23,4 @@ I have also attached all snapshot of this project for your overlook in order und
 VERY IMPORTANT : Your are required API key for this project because you need to insert in this programme so therefore, you will visit website https://opencagedata.com/ where you find option API KEY where you generate key free for first time by signing of any email account. 
 
 
+I must giving thanks for ALnafi institute which is great source of learning. 
